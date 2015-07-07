@@ -1,7 +1,8 @@
 Thumbor AWS
 ===========
 
-[![Circle CI](https://circleci.com/gh/thumbor-community/aws.svg?style=svg)](https://circleci.com/gh/thumbor-community/aws)
+[![Circle CI](https://circleci.com/gh/eventmobi/thumbor_aws.svg?style=svg)](https://circleci.com/gh/eventmobi/thumbor_aws)
+[![Code Health](https://landscape.io/github/EventMobi/thumbor_aws/master/landscape.svg?style=flat)](https://landscape.io/github/EventMobi/thumbor_aws/master)
 
 Origin story
 ------------
